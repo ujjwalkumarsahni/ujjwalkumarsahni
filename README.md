@@ -73,5 +73,13 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalkumarsahni&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkumarsahni" alt="GitHub Streak" /></td>
   </tr>
+
+## GitHub Stats
+
+![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwalkumarsahni&show_icons=true&theme=radical)
+
+
+
+
 </table>
 
