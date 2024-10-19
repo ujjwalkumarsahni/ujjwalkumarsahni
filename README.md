@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ujjwal+Kumar)](https://git.io/typing-svg)
 <h3 align="center">A passionate Mern Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalkumarsahni&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalkumarsahni" /> </p>
