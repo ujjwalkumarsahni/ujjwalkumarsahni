@@ -46,17 +46,6 @@ problem-solving in areas such as web platforms and scalable systems.
 
 ---
 
-### 🧹 Clean City Issue Reporting System  
-🔗 [GitHub Repo](https://github.com/ujjwalkumarsahni/Clean-City-Reporting-Platform)
-
-> A smart civic engagement tool that allows citizens to report local issues with photos and geolocation.
-
-- Users can upload images and **tag issue locations via Google Maps API**
-- Built an admin interface to monitor and respond to complaints
-- Integrated **Cloudinary** for image storage and optimized uploads with Multer
-- Data stored and managed using **MongoDB**
-- Helped bridge the gap between citizens and municipal authorities through a clean and intuitive UI
-
 ---
 
 ### 📚 Full-Stack Learning Management System (LMS)  
