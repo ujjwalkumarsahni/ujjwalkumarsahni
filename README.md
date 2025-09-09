@@ -15,30 +15,43 @@
 
 # ⚒️ Tech Stack
 
-**Languages:**  
+### 🖥️ Programming Languages  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
-**Frontend:**  
+### 🎨 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=redux&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white) 
 
-**Backend:**  
+### ⚙️ Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=flat&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=flat&logo=express&logoColor=white) 
+![REST API](https://img.shields.io/badge/REST%20API-005571.svg?style=flat) 
+![Microservices](https://img.shields.io/badge/Microservices-0088CC.svg?style=flat&logo=microgenetics&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-APIs, JWT, WebRTC, Socket.IO, Microservices
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black.svg?style=flat&logo=jsonwebtokens&logoColor=white) 
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101.svg?style=flat&logo=socket.io&logoColor=white) 
+![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=flat&logo=webrtc&logoColor=white) 
 
-**Tools & Deployment:**  
+### 🛠 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white) 
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=netlify&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-00979D.svg?style=flat&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D.svg?style=flat&logo=render&logoColor=white) 
+
+### 🤝 Soft Skills  
+✔️ Problem Solving | ✔️ Critical Thinking 
+
 
 ---
 
