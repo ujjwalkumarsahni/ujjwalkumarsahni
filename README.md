@@ -1,6 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ujjwal+Kumar;Full+Stack+Developer;Backend+Focused+💻;Building+Scalable+Systems;Always+Learning+🚀)](https://git.io/typing-svg)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ujjwalkumarsahni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ujjwalkumarsahni&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkumarsahni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ujjwalkumarsahni&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💡 About Me
 
