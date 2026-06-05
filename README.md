@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ujjwal+Kumar;Full+Stack+Developer;Backend+Focused+💻;Building+Scalable+Systems;Always+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+,+I'm+Ujjwal+Kumar;Full+Stack+Developer;Backend+Focused+;Building+Scalable+Systems;Always+Learning+)](https://git.io/typing-svg)
 
 ---
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ujjwalkumarsahni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ujjwalkumarsahni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkumarsahni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -11,7 +11,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 💡 About Me
+# About Me
 
 🔹 **Backend-Focused Full Stack Developer** with **1.5+ years of hands-on experience** in building and deploying **production-grade web applications**.  
 🔹 Currently working as **Full Stack Developer @ Aaklan IT Solutions** — contributing to **corporate systems, AI recruitment workflows**, and **scalable platform architecture**.  
@@ -19,14 +19,14 @@
 🔹 B.Tech CSE'26 @ **JIET, Jodhpur** | CGPA: **8.63/10**  
 🔹 Passionate about **system design, backend architecture, and solving real-world problems through code**.
 
-🌐 **Portfolio:** [ujjwalkumarsahni.netlify.app](https://ujjwalkumarsahni.netlify.app)  
-📩 **Reach me:** [ujjwalkumar0514@gmail.com](mailto:ujjwalkumar0514@gmail.com)
+**Portfolio:** [ujjwalkumarsahni.netlify.app](https://ujjwalkumarsahni.netlify.app)  
+**Reach me:** [ujjwalkumar0514@gmail.com](mailto:ujjwalkumar0514@gmail.com)
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### 🏢 Aaklan Corporate Website & AI-Powered Career Management System  
+### Aaklan Corporate Website & AI-Powered Career Management System  
 **🔗 Live Demo** | [GitHub Repo]()  
 > Redesigned and developed the official corporate website of **Aaklan IT Solutions** using **React.js, TailwindCSS, Node.js, Express.js, MongoDB**.  
 > Built a **fully automated AI-driven recruitment system** with resume shortlisting, **AI-based video interview automation**, topic generation, interviewer dashboards, and **automated offer letter generation via email**.  
@@ -34,7 +34,7 @@
 
 ---
 
-### 🧑‍🎓 Campus Placement Drive Management & Online Proctored Examination System  
+### Campus Placement Drive Management & Online Proctored Examination System  
 **🔗 Live Demo** | [GitHub Repo]()  
 > Developed a **role-based campus placement platform** for **Companies, Colleges, and Students** with centralized admin control.  
 > Built a **real-time online proctored examination system** with **WebRTC-based webcam monitoring, tab-switch detection, screen monitoring, and session heartbeat tracking**.  
@@ -42,7 +42,7 @@
 
 ---
 
-### 🖼️ ReImage – AI-Powered Image Processing Platform  
+### ReImage – AI-Powered Image Processing Platform  
 🔗 [Live Demo](https://reimage.onrender.com/) | [GitHub Repo](https://github.com/ujjwalkumarsahni/ReImage)  
 > Scalable **AI-based image processing platform** using **Clipdrop API** for background removal, enhancement, and text-to-image generation.  
 > Implemented **secure authentication**, **role-based authorization**, and **Razorpay payment integration**.  
@@ -50,19 +50,19 @@
 
 ---
 
-### 🩺 Online Doctor Consultation & Video Call Platform  
+### Online Doctor Consultation & Video Call Platform  
 🔗 [Live Demo](https://online-doctor-consult-frontend.onrender.com/) | [GitHub Repo](https://github.com/ujjwalkumarsahni/Online-Doctor-Consult)  
 > Full-stack telemedicine platform with **JWT authentication, Razorpay payments, WebRTC-based video consultations**, and **role-based dashboards for doctors and patients**.
 
 ---
 
-### 📚 Learning Management System (LMS)   
+### Learning Management System (LMS)   
 🔗 [Live Demo](https://lms-frontend-rosy-seven.vercel.app/) | [GitHub Repo](https://github.com/ujjwalkumarsahni/Learning-Management-System)  
 > Building an end-to-end LMS with **Admin, Instructor, and Student panels**, course creation, enrollment, progress tracking, and performance analytics.
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### 🔹 Aaklan IT Solutions Pvt Ltd  
 **Full Stack Developer** — *Nov 2025 – Present*  
@@ -82,12 +82,12 @@
 
 ---
 
-# 🏆 Certifications
+# Certifications
 
-✅ **Full Stack Web Development** – Physics Wallah  
-✅ **Backend Development** – Physics Wallah  
-✅ **AI Tools for Productivity** – Be10x  
-✅ **Software Testing** – Infosys Springboard
+**Full Stack Web Development** – Physics Wallah  
+**Backend Development** – Physics Wallah  
+**AI Tools for Productivity** – Be10x  
+**Software Testing** – Infosys Springboard
 
 ---
 
@@ -100,4 +100,4 @@
 
 ---
 
-✨ *“Code with purpose. Build with impact.”*
+*“Code with purpose. Build with impact.”*
